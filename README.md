@@ -4,7 +4,7 @@
 
 ## ✨ [Notion](https://www.notion.so/Eagle-Eye-018f370b1ce4436081ad646eb7ee3d69)
 
-실험 관리, 자료 공유 모두 Notion에서 이루어집니다!
+모델 학습은 mmdetection 라이브러리를 사용하며, config관련 실험은 모두 Notion에서 이루어집니다!
 
 ---
 
