@@ -36,6 +36,15 @@
 > **[👉 회고 보러가기](https://github.com/CoodingPenguin/object-detection-for-recycling-items/wiki)**
 
 - 대회 개요
+  - 배경
+  - 문제 정의
+  - 평가지표: mAP50
 - 대회 결과
 - 접근 방법
+  - 새로운 협업 방식 도입
+  - mmdetection 사용법 익히기
+  - 모델 실험
+  - 회고와 새로운 계획
+  - Augmentation 기법 실험
+  - 그 외
 - 회고
